@@ -1,0 +1,10 @@
+.env
+server_data.db
+.idea/
+bugs.log
+discord.log
+.vercel
+dictionary.txt
+.venv/
+__pycache__/
+*.pyc
